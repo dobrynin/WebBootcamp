@@ -1,6 +1,6 @@
 ## Javascript
 
-N.B. All of these articles cover important topics. Some, however, are very detailed and go into niche topics. Use your own judgement or ask an OG INLT teammate if something is actually important to understand.
+N.B. All of these articles cover important topics. Some, however, are very detailed and go into niche topics. Use your own judgement or ask an OG INLT teammate if you're not sure whether something is actually important to understand.
 
 * [Introduction](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 * [Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
