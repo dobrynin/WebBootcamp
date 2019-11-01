@@ -1,6 +1,6 @@
 # WebBootcamp
 
-Thus far in INLT's history, all the devs have been generalists. That is to say that we have all been responsible for features from front-end to back-end and every transformation in between. As a reflection of that, this repo includes resources covering all the relevant major tech of our stack, from Node in the backend to React + Redux in the front-end.
+Thus far in our history, all the devs have been generalists. That is to say that we have all been responsible for features from front-end to back-end and every transformation in between. As a reflection of that, this repo includes resources covering all the relevant major tech of our stack, from Node in the backend to React + Redux in the front-end.
 
 ## Learning Materials
 * [HTML](./HTML.md)
