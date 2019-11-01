@@ -2,6 +2,15 @@
 
 Thus far in INLT's history, all the devs have been generalists. That is to say that we have all been responsible for features from front-end to back-end and every transformation in between. As a reflection of that, this repo includes resources covering all the relevant major tech of our stack, from Node in the backend to React + Redux in the front-end.
 
+## Learning Materials
+* [HTML](./HTML.md)
+* [CSS](./CSS.md)
+* [JavaScript](./JS.md)
+* [Node.js](./Node.md)
+* [React](./React.md)
+* [Redux](./Redux.md)
+* [GraphQL](./GraphQL.md)
+
 ## Tips
 * Two main sites for general Web knowledge: [MDN](https://developer.mozilla.org/en-US/) and [W3Schools](https://www.w3schools.com/)
   * MDN's content is typically of much higher quality (more modern and accurate). W3Schools is okay for a quick lookup, but for in-depth learning prefer MDN
